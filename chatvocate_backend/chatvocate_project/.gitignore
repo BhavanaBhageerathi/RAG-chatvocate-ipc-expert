@@ -1,0 +1,6 @@
+.env
+myvirtualenv/
+__pycache__/
+*.pyc
+db.sqlite3
+chroma_db/
